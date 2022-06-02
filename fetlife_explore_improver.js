@@ -2,11 +2,10 @@
 // @name         FetLife Explore improver
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  Make FetLife Explore tab more usable on screens wider than mobile phones in portrait orientation
 // @author       dskowronski
 // @match        https://fetlife.com/explore/following/pictures
-// @icon         
-data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+// @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @require      http://code.jquery.com/jquery-3.4.1.min.js
 // @grant        none
 // ==/UserScript==
