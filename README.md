@@ -1,3 +1,3 @@
-# github.com/danielskowronki/userscripts
+# github.com/danielskowronski/userscripts
 
 my userscripts collection
